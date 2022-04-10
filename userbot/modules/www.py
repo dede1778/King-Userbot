@@ -336,5 +336,5 @@ CMD_HELP.update(
         \n\n  •  **Perintah :** `!ping`\
         \n  •  **Function : **Pingnya hampir sama dengan ultroid namun ini versi king!\
     "
-    }
+    } ok
 )
